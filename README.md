@@ -1,3 +1,3 @@
-# Interior-texture-dataset
+# Indoor Texture Dataset
 
 The dataset address is.
