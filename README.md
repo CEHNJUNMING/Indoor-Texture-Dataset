@@ -1,7 +1,7 @@
 # Indoor Texture Dataset
 
-The dataset address is https://pan.baidu.com/s/1nMDQYJBSzcXQ3BEAtDH1Gg 
-Verification Code： 
+The dataset address is https://pan.baidu.com/s/17UduZyx7riyMJ5gXHqL2ww
+Verification Code： n8px
 
 
 Datasets Description:
